@@ -1,18 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0f43c589-218b-4b78-81b2-ccdf05270c0f" name="Changes" comment="First commit. EnunciatN1Exercici1">
-      <change afterPath="$PROJECT_DIR$/src/n1Exercici2/EnunciatN1Exercici2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/n1Exercici3/EnunciatN1Exercici3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/n1Exercici4/EnunciatN1Exercici4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/n1Exercici5/EnunciatN1Exercici5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/n2Exercici1/EnunciatN2Exercici1" afterDir="false" />
+    <list default="true" id="0f43c589-218b-4b78-81b2-ccdf05270c0f" name="Changes" comment="Enunciats dels exercicis">
+      <change afterPath="$PROJECT_DIR$/src/n1Exercici1/LlistarContingut.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/n1Exercici1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/n1Exercici1/SourceDirectory" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -44,7 +50,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1689413976601</updated>
-      <workItem from="1689413978166" duration="1613000" />
+      <workItem from="1689413978166" duration="5933000" />
     </task>
     <task id="LOCAL-00001" summary="First commit. EnunciatN1Exercici1">
       <created>1689414736541</created>
@@ -53,7 +59,14 @@
       <option name="project" value="LOCAL" />
       <updated>1689414736541</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Enunciats dels exercicis">
+      <created>1689415722738</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1689415722738</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -72,6 +85,23 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit. EnunciatN1Exercici1" />
-    <option name="LAST_COMMIT_MESSAGE" value="First commit. EnunciatN1Exercici1" />
+    <MESSAGE value="Enunciats dels exercicis" />
+    <option name="LAST_COMMIT_MESSAGE" value="Enunciats dels exercicis" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/n1Exercici1/LlistarContingut.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/n1Exercici1/LlistarContingut.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
