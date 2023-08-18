@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0f43c589-218b-4b78-81b2-ccdf05270c0f" name="Changes" comment="Enunciats dels exercicis">
-      <change afterPath="$PROJECT_DIR$/src/n1Exercici1/LlistarContingut.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/n1Exercici1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/n1Exercici1/SourceDirectory" afterDir="false" />
+    <list default="true" id="0f43c589-218b-4b78-81b2-ccdf05270c0f" name="Changes" comment="Nivell 1 Exercici 1 fet">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pruebaTecnica/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pruebaTecnica/MarkList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pruebaTecnica2/Calcula.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pruebaTecnica2/Mitad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pruebaTecnica3/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/n1Exercici1/LlistarContingut.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/n1Exercici1/LlistarContingut.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,16 +35,78 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/ivand/IdeaProjects/ItAcademy/Sprint1Tasca03JavaCollections",
-    "nodejs_package_manager_path": "npm"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ivand/IdeaProjects/ItAcademy/Sprint1Tasca03JavaCollections&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager" selected="Application.n1Exercici1.Main">
+    <configuration name="Calcula" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pruebaTecnica2.Calcula" />
+      <module name="Sprint1Tasca05JavaUtils" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pruebaTecnica2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pruebaTecnica.Main" />
+      <module name="Sprint1Tasca05JavaUtils" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pruebaTecnica.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="n1Exercici1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="n1Exercici1.Main" />
+      <module name="Sprint1Tasca05JavaUtils" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="n1Exercici1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pruebaTecnica3.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pruebaTecnica3.Main" />
+      <module name="Sprint1Tasca05JavaUtils" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pruebaTecnica3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.n1Exercici1.Main" />
+        <item itemvalue="Application.Calcula" />
+        <item itemvalue="Application.pruebaTecnica3.Main" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -50,7 +115,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1689413976601</updated>
-      <workItem from="1689413978166" duration="5933000" />
+      <workItem from="1689413978166" duration="7075000" />
+      <workItem from="1689716467333" duration="1789000" />
+      <workItem from="1689793841861" duration="17774000" />
+      <workItem from="1691495652407" duration="4221000" />
+      <workItem from="1691672608274" duration="1786000" />
+      <workItem from="1691998983176" duration="9537000" />
     </task>
     <task id="LOCAL-00001" summary="First commit. EnunciatN1Exercici1">
       <created>1689414736541</created>
@@ -66,7 +136,14 @@
       <option name="project" value="LOCAL" />
       <updated>1689415722738</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Nivell 1 Exercici 1 fet">
+      <created>1689420559905</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1689420559905</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -86,20 +163,16 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit. EnunciatN1Exercici1" />
     <MESSAGE value="Enunciats dels exercicis" />
-    <option name="LAST_COMMIT_MESSAGE" value="Enunciats dels exercicis" />
+    <MESSAGE value="Nivell 1 Exercici 1 fet" />
+    <option name="LAST_COMMIT_MESSAGE" value="Nivell 1 Exercici 1 fet" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/n1Exercici1/LlistarContingut.java</url>
-          <line>42</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/n1Exercici1/LlistarContingut.java</url>
-          <line>19</line>
-          <option name="timeStamp" value="4" />
+          <url>file://$PROJECT_DIR$/src/pruebaTecnica3/Main.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

@@ -15,9 +15,9 @@ public class LlistarContingut {
         var fitxers = new ArrayList<String>();
 
         try {
-            DirectoryStream<Path> ds = Files.newDirectoryStream(Paths.get(nomDirectori));
+            DirectoryStream<Path> ds = Files.newDirectoryStream(Paths.get(nomDirectori)); 
             for (Path ruta : ds) {
-                fitxers.add(ruta.getFileName().toString());
+                fitxers.add(ruta.getFileName().toString()); 
             }
 
             Arrays.sort(new ArrayList[]{fitxers});
